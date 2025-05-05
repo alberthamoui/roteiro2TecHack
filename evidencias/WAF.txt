@@ -1,0 +1,28 @@
+--- Reconhecimento de Alvo ---
+1. PortScan
+2. WHOIS Lookup
+3. DNS Enumeration
+4. Subdomain Enumeration
+5. WAF Detection
+0. Sair
+Escolha uma opção: 5
+Digite o alvo (ex: https://exemplo.com): google.com
+
+                   ______
+                  /      \
+                 (  Woof! )
+                  \  ____/                      )
+                  ,,                           ) (_
+             .-. -    _______                 ( |__|
+            ()``; |==|_______)                .)|__|
+            / ('        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.3.1 ~
+    The Web Application Firewall Fingerprinting Toolkit
+
+[*] Checking https://google.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7

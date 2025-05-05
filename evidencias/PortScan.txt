@@ -1,0 +1,232 @@
+--- Reconhecimento de Alvo ---
+1. PortScan
+2. WHOIS Lookup
+3. DNS Enumeration
+4. Subdomain Enumeration
+5. WAF Detection
+0. Sair
+Escolha uma opção: 1
+ PortScanner 
+
+--------------------------------
+1. Escanear um único host
+2. Escanear uma rede inteira
+3. Sair
+--------------------------------
+
+Escolha uma opção (1, 2 ou 3): 1
+
+ Digite o IP ou hostname do alvo (192.168.1.1/google.com): google.com
+
+ Digite o intervalo de portas para escanear (ex: 20-100): 1-100
+
+ Escaneando host 172.217.28.206 nas portas 1-100...
+
+
+[ERRO] Porta 1 -> Código de erro: 10035
+
+[ERRO] Porta 7 -> Código de erro: 10035
+
+[ERRO] Porta 3 -> Código de erro: 10035
+[ERRO] Porta 4 -> Código de erro: 10035
+[ERRO] Porta 9 -> Código de erro: 10035
+[ERRO] Porta 6 -> Código de erro: 10035
+
+
+
+[ERRO] Porta 10 -> Código de erro: 10035
+
+
+[ERRO] Porta 5 -> Código de erro: 10035
+[ERRO] Porta 8 -> Código de erro: 10035
+
+[ERRO] Porta 2 -> Código de erro: 10035
+
+
+[ERRO] Porta 19 -> Código de erro: 10035
+
+[ERRO] Porta 11 -> Código de erro: 10035
+
+[ERRO] Porta 65 -> Código de erro: 10035
+
+[ERRO] Porta 22 -> Código de erro: 10035
+
+[ERRO] Porta 26 -> Código de erro: 10035
+
+[ERRO] Porta 21 -> Código de erro: 10035
+
+[ERRO] Porta 75 -> Código de erro: 10035
+
+[ERRO] Porta 53 -> Código de erro: 10035
+
+[ERRO] Porta 41 -> Código de erro: 10035
+
+[ERRO] Porta 45 -> Código de erro: 10035
+
+[ERRO] Porta 32 -> Código de erro: 10035
+
+[ERRO] Porta 34 -> Código de erro: 10035
+
+[ERRO] Porta 35 -> Código de erro: 10035
+
+[ERRO] Porta 62 -> Código de erro: 10035
+
+[ERRO] Porta 67 -> Código de erro: 10035
+
+[ERRO] Porta 63 -> Código de erro: 10035
+
+[ERRO] Porta 71 -> Código de erro: 10035
+
+[ERRO] Porta 77 -> Código de erro: 10035
+
+[ERRO] Porta 76 -> Código de erro: 10035
+[ERRO] Porta 40 -> Código de erro: 10035
+
+[ERRO] Porta 16 -> Código de erro: 10035
+[ERRO] Porta 15 -> Código de erro: 10035
+
+[ERRO] Porta 24 -> Código de erro: 10035
+
+[ERRO] Porta 29 -> Código de erro: 10035
+[ERRO] Porta 42 -> Código de erro: 10035
+[ERRO] Porta 23 -> Código de erro: 10035
+
+[ERRO] Porta 13 -> Código de erro: 10035
+
+[ERRO] Porta 43 -> Código de erro: 10035
+
+[ERRO] Porta 31 -> Código de erro: 10035
+[ERRO] Porta 50 -> Código de erro: 10035
+
+[ERRO] Porta 54 -> Código de erro: 10035
+
+[ERRO] Porta 93 -> Código de erro: 10035
+
+[ERRO] Porta 99 -> Código de erro: 10035
+
+[ERRO] Porta 82 -> Código de erro: 10035
+
+[ERRO] Porta 86 -> Código de erro: 10035
+
+[ERRO] Porta 85 -> Código de erro: 10035
+
+[ERRO] Porta 89 -> Código de erro: 10035
+
+[ERRO] Porta 61 -> Código de erro: 10035
+[ERRO] Porta 70 -> Código de erro: 10035
+
+[ERRO] Porta 72 -> Código de erro: 10035
+
+[ERRO] Porta 78 -> Código de erro: 10035
+
+[ERRO] Porta 37 -> Código de erro: 10035
+
+[ERRO] Porta 17 -> Código de erro: 10035
+[ERRO] Porta 27 -> Código de erro: 10035
+
+
+
+[ERRO] Porta 73 -> Código de erro: 10035
+
+[ERRO] Porta 39 -> Código de erro: 10035
+
+[ERRO] Porta 47 -> Código de erro: 10035
+[ERRO] Porta 44 -> Código de erro: 10035
+
+[ERRO] Porta 60 -> Código de erro: 10035
+[ERRO] Porta 58 -> Código de erro: 10035
+
+[ERRO] Porta 100 -> Código de erro: 10035
+
+[ERRO] Porta 94 -> Código de erro: 10035
+[ERRO] Porta 81 -> Código de erro: 10035
+
+[ERRO] Porta 95 -> Código de erro: 10035
+[ERRO] Porta 92 -> Código de erro: 10035
+
+[ERRO] Porta 56 -> Código de erro: 10035
+[ERRO] Porta 57 -> Código de erro: 10035
+
+[ERRO] Porta 20 -> Código de erro: 10035
+
+[ERRO] Porta 38 -> Código de erro: 10035
+
+[ERRO] Porta 12 -> Código de erro: 10035
+
+
+[ERRO] Porta 28 -> Código de erro: 10035
+
+[ERRO] Porta 49 -> Código de erro: 10035
+[ERRO] Porta 36 -> Código de erro: 10035
+[ERRO] Porta 33 -> Código de erro: 10035
+
+[ERRO] Porta 48 -> Código de erro: 10035
+
+[ERRO] Porta 52 -> Código de erro: 10035
+
+
+[ERRO] Porta 83 -> Código de erro: 10035
+
+
+
+
+[ERRO] Porta 18 -> Código de erro: 10035
+
+[ERRO] Porta 68 -> Código de erro: 10035
+[ERRO] Porta 66 -> Código de erro: 10035
+
+[ERRO] Porta 79 -> Código de erro: 10035
+[ERRO] Porta 25 -> Código de erro: 10035
+
+[ERRO] Porta 55 -> Código de erro: 10035
+
+[ERRO] Porta 14 -> Código de erro: 10035
+
+[ERRO] Porta 59 -> Código de erro: 10035
+
+[ERRO] Porta 91 -> Código de erro: 10035
+
+[ERRO] Porta 84 -> Código de erro: 10035
+
+
+[ERRO] Porta 74 -> Código de erro: 10035
+
+
+[ERRO] Porta 30 -> Código de erro: 10035
+
+[ERRO] Porta 46 -> Código de erro: 10035
+
+[ERRO] Porta 87 -> Código de erro: 10035
+[ERRO] Porta 88 -> Código de erro: 10035
+
+[ERRO] Porta 64 -> Código de erro: 10035
+
+
+[ERRO] Porta 69 -> Código de erro: 10035
+
+
+
+
+
+[ERRO] Porta 97 -> Código de erro: 10035
+
+
+[ERRO] Porta 51 -> Código de erro: 10035
+
+[ERRO] Porta 98 -> Código de erro: 10035
+
+[ERRO] Porta 90 -> Código de erro: 10035
+
+
+[ERRO] Porta 96 -> Código de erro: 10035
+
+
+[ABERTA] Porta 80 (http) - Banner: Nenhum banner capturado
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ Portas abertas:
++---------+-----------+-------------------------+----------------------------------+
+|   Porta | Serviço   | Banner                  | SO                               |
++=========+===========+=========================+==================================+
+|      80 | http      | Nenhum banner capturado | Sistema operacional desconhecido |
++---------+-----------+-------------------------+----------------------------------+
