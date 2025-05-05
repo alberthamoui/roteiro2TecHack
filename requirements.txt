@@ -1,0 +1,5 @@
+tabulate
+dnspython
+python-whois
+requests
+wafw00f
