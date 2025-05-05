@@ -13,26 +13,28 @@ Este aplicativo CLI reúne diversas ferramentas utilizadas na fase de reconhecim
 ## 📦 Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone 
+    ```bash
+   git clone https://github.com/alberthamoui/roteiro2TecHack.git
+   cd roteiro2TecHack
+    ```
 
-2. cd roteiro2TecHack
-```
-pip install -r requirements.txt
-```
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Execute o script principal:
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ## 📚 Uso
 
-- Escolha uma das opções disponíveis no menu principal.
-- Siga as instruções na tela para fornecer os parâmetros necessários (como IP, domínio, etc.).
-- Aguarde os resultados e analise as informações coletadas.
+* Escolha uma das opções disponíveis no menu principal.
+* Siga as instruções na tela para fornecer os parâmetros necessários (como IP, domínio, etc.).
+* Aguarde os resultados e analise as informações coletadas.
 
-## Respostas
+## ✅ Respostas
 
 1. Além do PortScan, quais são as 5 ferramentas mais úteis para reconhecimento em um pentest? Justifique cada escolha com base em casos reais (ex: Shodan para IoT, theHarvester para e-mails).
     - Shodan
@@ -51,19 +53,10 @@ python main.py
 
 3. Como um pentester pode evitar ser detectado por sistemas de prevenção de intrusão (IPS) durante o reconhecimento? Liste técnicas e como elas impactam a eficácia do scan.
 
+## 📁 Evidências
 
-
-## Evidências
-- [ ] PortScan
-    - ![PortScan](evidencias/portscan.png)
-- [ ] WHOIS Lookup
-
-    - ![WHOIS Lookup](evidencias/whois.png)
-- [ ] DNS Enumeration
-    - ![DNS Enumeration](evidencias/dns_enum.png)
-
-- [ ] Subdomain Enumeration
-    - ![Subdomain Enumeration](evidencias/subdomain_enum.png)
-
-- [ ] WAF Detection
-    - ![WAF Detection](evidencias/waf_detection.png)
+* [✔️ PortScan](evidencias/PortScan.txt)
+* [✔️ WHOIS Lookup](evidencias/WHOIS.txt)
+* [✔️ DNS Enumeration](evidencias/DNS.txt)
+* [✔️ Subdomain Enumeration](evidencias/Subdomain.txt)
+* [✔️ WAF Detection](evidencias/WAF.txt)

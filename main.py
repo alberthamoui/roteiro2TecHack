@@ -1,6 +1,5 @@
 import sys
 from modules import portscan, whoisLookup, dnsEnum, subDomainEnum, wafDetect
-
 def menu():
     while True:
         print("\n--- Reconhecimento de Alvo ---")
